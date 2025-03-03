@@ -1,7 +1,3 @@
-I will generate a **README.md** file based on the contents of your **LR_TidyModels.Rmd** file. First, I'll extract the key information from the file and then format it into a **README.md**. Let me process it now.
-
-Based on the contents of **LR_TidyModels.Rmd**, I will generate a **README.md** file summarizing the project, its purpose, methodology, and usage.
-
 ---
 
 ### **README.md**
